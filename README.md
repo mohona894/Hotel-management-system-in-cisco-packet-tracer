@@ -1,4 +1,4 @@
-Project name: Hotel-management-system-in-cisco-packet-tracer
+## Hotel-management-system-in-cisco-packet-tracer
 
 Hotel Management System Network Design (Cisco Packet Tracer):
 
